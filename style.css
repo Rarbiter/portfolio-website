@@ -1,0 +1,51 @@
+h1{
+  font-family: 'Century gothic', 'Century', Courier;
+  font-size: 32px;
+  color: teal;
+  text-align: center;
+  background: lightgray; 
+}
+
+h2{
+  font-family:'Century';
+  color: darkcyan;
+  text-align: left;
+}
+h3{
+  font-family: Georgia;
+  font-size: 14px;
+  color: black;
+}
+section{
+  text-align: center;
+  margin: auto;
+  padding: auto;
+}
+
+p{
+  font-family: Tahoma;
+  font-size: 16px;
+  color: #e75480
+}
+
+ul{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+  font-size: 15px;
+  color: blueviolet;
+} 
+
+ol {
+  font-family: 'Times New Roman';
+  font-size: 15px;
+  color: lightseagreen;
+}
+
+footer{
+  background: lightgray;
+  text-align: center;
+}
+
+.wrapper {
+	width: 980px;
+	margin: auto;
+  padding: auto;
